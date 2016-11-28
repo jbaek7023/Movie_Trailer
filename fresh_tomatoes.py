@@ -13,7 +13,7 @@ main_page_head = '''
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
-    <style type="text/css" media="screenhttp://upload.wikimedia.org/wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg">
+    <style type="text/css" media="screen">
         body {
             padding-top: 80px;
         }
@@ -50,7 +50,7 @@ main_page_head = '''
             position: absolute;
             width: 100%;
             left: 0;
-            top: 0; 
+            top: 0;
             background-color: white;
         }
     </style>

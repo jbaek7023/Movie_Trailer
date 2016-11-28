@@ -11,9 +11,5 @@ face_off = media.Movie("Face Off", "Two pairs of lovers on a Hawaiian vacation d
 usual_suspect = media.Movie("Usual Suspect", "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.", "img/usual_suspect.jpg", "https://www.youtube.com/watch?v=9MjV4EwR7Mg")
 dr_strange = media.Movie("Dr. Strange", "A former neurosurgeon embarks on a journey of healing only to be drawn into the world of the mystic arts.", "img/dr_strange.jpg", "https://www.youtube.com/watch?v=kNdM7b1Lm04")
 
-
-
-
-
 movies = [the_note_book, non_stop, perfect_getaway, flight_93, face_off, usual_suspect, dr_strange]
 fresh_tomatoes.open_movies_page(movies)
