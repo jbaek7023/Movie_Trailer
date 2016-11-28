@@ -53,7 +53,6 @@ dr_strange = media.Movie(
 
 movies = []
 movies.append(the_note_book)
-movies.append(non_stop)
 movies.append(perfect_getaway)
 movies.append(flight_93)
 movies.append(face_off)
